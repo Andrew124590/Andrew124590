@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrew124590
 - 👀 I’m interested in сreation neural network
-- 🌱 I’m currently learning pyhon
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
